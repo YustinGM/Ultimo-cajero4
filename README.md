@@ -68,7 +68,8 @@ Clonar el repositorio:
 
 bash
  
-git clone https://github.com/tuusuario/banco-smith.git
+git clone [(https://github.com/YustinGM/Ultimo-cajero4)git
+
 cd banco-smith
 Importar el archivo banco_smith.sql en phpMyAdmin.
 
